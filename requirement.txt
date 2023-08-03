@@ -1,0 +1,11 @@
+cudnn==7.6.5
+networkx==2.8.4
+nltk==3.8.1
+numpy==1.19.2
+tensorflow-gpu==2.4.1
+torch==1.12.0+cu113
+torch-cluster==1.6.0+pt112cu113
+torch-geometric==2.3.0
+torch-scatter==2.1.0+pt112cu113
+torch-sparse==0.6.14
+torch-spline-conv==1.2.1+pt112cu113

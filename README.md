@@ -1,9 +1,7 @@
-# ST457 Project of Group Zeta
+# Graph Representation Learning Group Project 
 
 ## Introduction
 
-This is the group project of Zeta in ST457.   
-Candidate IDs: 48119, 54751 48372 and 56111.  
 The report is attached in file 54751_48372_56111_48119_project_report.pdf  
 
 We apply three types of normalization methods and DropEdge technique on GCN, GAT and GCNII models, in order to mitigate the over-smoothing and over-fitting problems. 
